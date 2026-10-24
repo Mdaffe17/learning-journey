@@ -33,4 +33,4 @@ Les comptes rendus publics ne contiendront pas de mots de passe, de flags ou de 
 
 ## Projets associés
 
-Les installations et expérimentations réalisées dans mon propre environnement, notamment les futurs scénarios de détection et d'analyse de trafic, sont documentées dans [MDAFFE17-Lab](https://github.com/Mdaffe17/MDAFFE17-Lab).
+Les installations et expérimentations réalisées dans mon propre environnement, notamment les futurs scénarios de détection et d'analyse de trafic, sont documentées dans [NodX-Lab](https://github.com/itsnodx/NodX-Lab).
